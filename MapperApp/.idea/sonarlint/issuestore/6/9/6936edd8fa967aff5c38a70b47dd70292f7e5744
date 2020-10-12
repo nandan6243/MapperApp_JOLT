@@ -1,0 +1,31 @@
+
+c
+java:S1854X"ARemove this useless assignment to local variable "inputFileName".(×Â—ıÿÿÿÿ8ú£ƒ’Ğ.
+T
+java:S1481X"2Remove this unused "inputFileName" local variable.(×Â—ıÿÿÿÿ8ú£ƒ’Ğ.
+h
+java:S1192"FDefine a constant instead of duplicating this literal ".json" 5 times.(‰¤¬ûÿÿÿÿ8¤Ø‘’Ğ.
+@
+java:S1148?"#Use a logger to log this exception.(Ç’Çê8¤Ø‘’Ğ.
+@
+java:S1148x"#Use a logger to log this exception.(Ç’Çê8¤Ø‘’Ğ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(§ëã¡8¤Ø‘’Ğ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ßºäç8¤Ø‘’Ğ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8¤Ø‘’Ğ.
+X
+java:S1854Y";Remove this useless assignment to local variable "mapping".(³¼ö8¤Ø‘’Ğ.
+X
+java:S1854\";Remove this useless assignment to local variable "mapping".(Å­ä«8¤Ø‘’Ğ.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(÷Ã±ìùÿÿÿÿ8¤Ø‘’Ğ.
+H
+java:S1172~"&Remove these unused method parameters.(äøÅ±ûÿÿÿÿ8¤Ø‘’Ğ.
+I
+java:S1481Y",Remove this unused "mapping" local variable.(³¼ö8¤Ø‘’Ğ.
+L
+java:S1068"*Remove this unused "LOGGER" private field.(øµ¬íÿÿÿÿÿ8¤Ø‘’Ğ.
+X	java:S1259"<This block of commented-out lines of code should be removed.(­œ¨€8¤Ø‘’Ğ.
+]	java:S125D"<This block of commented-out lines of code should be removed.(©ë¤Ôıÿÿÿÿ8¤Ø‘’Ğ.
+]	java:S125j"<This block of commented-out lines of code should be removed.(ºÃ¥©ùÿÿÿÿ8¤Ø‘’Ğ.
+^	java:S125€"<This block of commented-out lines of code should be removed.(•™ÊĞûÿÿÿÿ8¤Ø‘’Ğ.
+Q
+java:S1144~"/Remove this unused private "createSpec" method.(äøÅ±ûÿÿÿÿ8¤Ø‘’Ğ.

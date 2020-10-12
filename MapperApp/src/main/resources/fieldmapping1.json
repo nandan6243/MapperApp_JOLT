@@ -1,0 +1,12 @@
+{
+  "menu[0].item_id": "cuisines.items[0].id",
+  "menu[0].item_name":  "cuisines.items[0].name",
+  "menu[0].item_Description":  "cuisines.items[0].description",
+  "menu[0].item_rating":  "cuisines.items[0].rating",
+  "menu[0].in_stock":  "cuisines.items[0].in_stock",
+  "menu[0].image_url":  "cuisines.items[0].image_url",
+  "menu[0].is_veg": "cuisines.items[0].is_veg"
+}
+
+
+

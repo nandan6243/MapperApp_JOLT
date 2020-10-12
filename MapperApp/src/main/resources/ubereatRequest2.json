@@ -1,0 +1,14 @@
+{
+  "id": "24",
+  "name": "PQR",
+  "menu": [
+  {
+  	"item_id":"1",
+  	"item_name": "Paneer Kabeb"
+  },
+  {
+  	"item_id":"2",
+  	"item_name": "Chicken Kabeb"
+  }
+  ]
+}

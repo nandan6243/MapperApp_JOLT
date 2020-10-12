@@ -1,0 +1,11 @@
+
+]	java:S125="<This block of commented-out lines of code should be removed.(ÌĞÕùÿÿÿÿ8‚ªÎšÌ.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ú›çÜıÿÿÿÿ8ÖéÆšÌ.
+F
+java:S1068"*Remove this unused "LOGGER" private field.(…±8¡¾ÍšÌ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¥õÚ‡øÿÿÿÿ8ûÍšÌ.
+|
+java:S1488<"_Immediately return this expression instead of assigning it to the temporary variable "mapping".(³¼ö8‚ªÎšÌ.
+A
+java:S1148Š"#Use a logger to log this exception.(Ç’Çê8ÖéÆšÌ.
+]	java:S125 "<This block of commented-out lines of code should be removed.(şñÊëÿÿÿÿÿ8¡¾ÍšÌ.

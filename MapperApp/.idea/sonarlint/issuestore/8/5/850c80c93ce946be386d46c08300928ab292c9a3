@@ -1,0 +1,9 @@
+
+L
+java:S1068"*Remove this unused "LOGGER" private field.(èøÙ•ÿÿÿÿÿ8£·¢¯Ë.
+Z
+java:S1854!"8Remove this useless assignment to local variable "cart".(¡·íÙøÿÿÿÿ8£·¢¯Ë.
+Z
+java:S1854("8Remove this useless assignment to local variable "cart".(¡·íÙøÿÿÿÿ8£·¢¯Ë.
+€
+java:S14886"^Immediately return this expression instead of assigning it to the temporary variable "status".(ú÷®×ûÿÿÿÿ8£·¢¯Ë.

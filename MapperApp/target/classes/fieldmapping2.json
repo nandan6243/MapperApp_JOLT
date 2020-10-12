@@ -1,0 +1,7 @@
+{
+   "id": "resId",
+  "name": "resName",
+  "menu":"items",
+  "menu.item_id": "itemId",
+  "menu.item_name": "itemName"
+}

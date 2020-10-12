@@ -1,0 +1,52 @@
+{
+  "partner_id": "23",
+  "partner_name": "ABC",
+  "menu": [
+    {
+      "item_id": "1",
+      "item_name": "Pasta",
+      "item_Description": "desc1",
+      "item_cost": [
+        {
+          "type": "Regular",
+          "cost": "300"
+        },
+        {
+          "type": "Large",
+          "cost": "500"
+        }
+      ],
+      "item_rating": "4.2",
+      "in_stock": 1,
+      "image_url": "",
+      "is_veg": 1
+    },
+    {
+      "item_id": "2",
+      "item_name": "Burger",
+      "item_Description": "desc2",
+      "item_cost": [
+        {
+          "type": "Regular",
+          "cost": "150"
+        },
+        {
+          "type": "Large",
+          "cost": "300"
+        }
+      ],
+      "item_rating": "4",
+      "in_stock": 1,
+      "image_url": "",
+      "is_veg": 0
+    }
+  ],
+  "status": [
+    {
+      "day": "open"
+    },
+    {
+      "timings": "1 PM to 10PM"
+    }
+  ]
+}

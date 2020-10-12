@@ -1,0 +1,46 @@
+{
+  "id": "23",
+  "name": "ABC",
+  "cusines": {
+    "items": [
+      {
+        "id": "1",
+        "name": "Pasta",
+        "description": "desc1",
+        "cost": [
+          {
+            "type": "Regular",
+            "cost": "300"
+          },
+          {
+            "type": "Large",
+            "cost": "500"
+          }
+        ],
+        "rating": "4.2",
+        "in_stock": 1,
+        "image_url": "",
+        "is_veg": 1
+      },
+      {
+        "id": "2",
+        "name": "Burger",
+        "description": "desc2",
+        "cost": [
+          {
+            "type": "Regular",
+            "cost": "150"
+          },
+          {
+            "type": "Large",
+            "cost": "300"
+          }
+        ],
+        "rating": "4",
+        "in_stock": 1,
+        "image_url": "",
+        "is_veg": 0
+      }
+    ]
+  }
+}
